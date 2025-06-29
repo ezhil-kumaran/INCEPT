@@ -1,7 +1,7 @@
 # Incept
 
 A distraction-free, text-only social media app ..  
-**Incept** is designed for pure, meaningful conversations—no images, no videos, just words.
+**Incept** is designed for pure, meaningful conversations—no images, no videos, just words.Try it here download the "incept.apk" above.
 
 ---
 
@@ -38,6 +38,7 @@ A distraction-free, text-only social media app ..
     </td>
   </tr>
 </table>
-
+<h1>Download apk here</h1>
+https://github.com/ezhil-kumaran/INCEPT/blob/main/incept.apk
 
 
